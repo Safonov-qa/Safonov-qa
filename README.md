@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi there 👋 , I am a QA-engineer <img src="media/gifEmoji.gif" width="25" height="25"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Safonov-qa)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safonov-qa&theme=solarized_dark)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 <!--
 **Safonov-qa/Safonov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
