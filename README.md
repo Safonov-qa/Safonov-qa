@@ -1,4 +1,4 @@
-## Hi there 👋 , I am a QA-engineer <img src="media/gifEmoji.gif" width="25" height="25"/>
+## Hi there 👋 , I am a QA-engineer <img src="media/gifEmoji.gif" width="30" height="30"/>
 
 ### My tech stack 
 
