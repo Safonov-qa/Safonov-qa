@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Safonov-qa)](https://git.io/streak-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
 
 <!--
 **Safonov-qa/Safonov-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
