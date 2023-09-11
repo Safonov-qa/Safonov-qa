@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Safonov-qa)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safonov-qa&theme=solarized_dark)
 
 
 <!--
